@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LList()
+comment1.params=
+comment1.target=void\ clear()
+comment10.params=anEntry
+comment10.target=boolean\ contains(java.lang.Object)
+comment11.params=givenPosition
+comment11.target=LList.Node\ getNodeAt(int)
+comment11.text=\ Task\:\ Returns\ a\ reference\ to\ the\ node\ at\ a\ given\ position.\r\nPrecondition\:\ List\ is\ not\ empty;\ 1\ <\=\ givenPosition\ <\=\ length.
+comment12.params=
+comment12.target=int\ getLength()
+comment13.params=
+comment13.target=void\ reverse()
+comment2.params=newEntry
+comment2.target=boolean\ add(java.lang.Object)
+comment3.params=newPosition\ newEntry
+comment3.target=boolean\ add(int,\ java.lang.Object)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=givenPosition\ newEntry
+comment6.target=boolean\ replace(int,\ java.lang.Object)
+comment7.params=givenPosition
+comment7.target=java.lang.Object\ getEntry(int)
+comment8.params=givenPosition
+comment8.target=java.lang.Object\ remove(int)
+comment9.params=
+comment9.target=boolean\ isFull()
+numComments=14

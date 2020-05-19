@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment0.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ \ \ \ the\ result\ produced\ by\ sampleMethod\ \r\n
+comment1.params=
+comment1.target=java.lang.Object\ pop()
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=newItem
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=void\ clear()
+numComments=5

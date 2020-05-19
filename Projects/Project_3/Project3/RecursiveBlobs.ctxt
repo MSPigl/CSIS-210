@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=grid\ row\ col\ maxRows\ maxCols
+comment0.target=char[][]\ eraseblob(char[][],\ int,\ int,\ int,\ int)
+comment0.text=\r\n\ Replaces\ any\ found\ asterisks\ in\ a\ 2D\ char\ array\ with\ an\ X\r\n\ \r\n\ @param\ grid\ a\ 2D\ array\ of\ chars\r\n\ @param\ row\ current\ row\r\n\ @param\ col\ current\ column\r\n\ @param\ maxRows\ number\ of\ rows\ in\ array\r\n\ @param\ maxCols\ number\ of\ columns\ in\ array\r\n\ @return\ grid\ -\ a\ 2D\ array\ of\ chars\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ for\ class\ RecursiveBlobs\r\n
+numComments=2

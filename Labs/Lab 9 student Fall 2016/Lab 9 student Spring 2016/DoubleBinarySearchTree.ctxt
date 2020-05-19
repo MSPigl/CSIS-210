@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DoubleBinarySearchTree()
+comment1.params=value
+comment1.target=void\ add(double)
+comment10.params=v
+comment10.target=boolean\ deleteRoot(double)
+comment2.params=value\ n
+comment2.target=void\ recursiveAdd(double,\ DoubleBTNode)
+comment3.params=
+comment3.target=void\ printAll()
+comment4.params=n
+comment4.target=void\ recursivePrintAll(DoubleBTNode)
+comment5.params=
+comment5.target=double\ getLargest()
+comment6.params=v
+comment6.target=DoubleBTNode\ getParent(double)
+comment7.params=v
+comment7.target=boolean\ find(double)
+comment8.params=n\ v
+comment8.target=boolean\ recursiveFind(DoubleBTNode,\ double)
+comment9.params=v
+comment9.target=boolean\ delete(double)
+numComments=11

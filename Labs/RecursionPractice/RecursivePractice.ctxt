@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ sum(int)
+comment1.params=n
+comment1.target=int\ sumThrees(int)
+comment2.params=n
+comment2.target=int\ fib(int)
+comment3.params=A\ B
+comment3.target=int\ squaresAtoB(int,\ int)
+comment4.params=n
+comment4.target=void\ printIt(int)
+comment5.params=A\ first\ last
+comment5.target=int\ maximum(int[],\ int,\ int)
+comment6.params=A\ first\ last
+comment6.target=int\ count100(int[],\ int,\ int)
+comment7.params=A\ first\ last
+comment7.target=boolean\ negatives(int[],\ int,\ int)
+numComments=8

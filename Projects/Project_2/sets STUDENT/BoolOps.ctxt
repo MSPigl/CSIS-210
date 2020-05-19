@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=list1\ list2
+comment0.target=LList\ union(LList,\ LList)
+comment0.text=\r\n\ Performs\ the\ union\ set\ operation\r\n\ @param\ list1\ an\ LList\ of\ Strings\r\n\ @param\ list2\ an\ LList\ of\ Strings\r\n\ @return\ unionList\ the\ union\ of\ list1\ and\ list2\ stored\ as\ an\ LList\r\n
+comment1.params=list1\ list2
+comment1.target=LList\ intersection(LList,\ LList)
+comment1.text=\r\n\ Performs\ the\ intersection\ set\ operation\ \r\n\ @param\ list1\ an\ LList\ of\ Strings\r\n\ @param\ list2\ an\ LList\ of\ Strings\r\n\ @return\ intersectList\ the\ intersection\ of\ list1\ and\ list\ 2\ stored\ as\ an\ LList\r\n
+comment2.params=list1\ list2
+comment2.target=LList\ difference(LList,\ LList)
+comment2.text=\r\n\ Performs\ the\ difference\ set\ operation\ for\ list1\ and\ list2\r\n\ @param\ list1\ an\ LList\ of\ Strings\r\n\ @param\ list2\ an\ LList\ of\ Strings\r\n\ @return\ differenceList\ the\ difference\ between\ list1\ and\ list2\ stored\ as\ an\ LList\r\n
+comment3.params=list1\ list2
+comment3.target=boolean\ subset(LList,\ LList)
+comment3.text=\r\n\ Checks\ whether\ list1\ is\ a\ subset\ of\ list2\r\n\ @param\ list1\ an\ LList\ of\ Strings\r\n\ @param\ list2\ an\ LList\ of\ Strings\r\n\ @return\ true\ if\ list1\ is\ a\ subset\ of\ list2,\ false\ if\ not\r\n
+comment4.params=list1\ list2
+comment4.target=boolean\ equivalent(LList,\ LList)
+comment4.text=\r\n\ Checks\ whether\ or\ not\ list1\ and\ list2\ are\ equivalent\r\n\ @param\ list1\ an\ LList\ of\ Strings\r\n\ @param\ list2\ an\ LList\ of\ Strings\r\n\ @return\ true\ if\ list1\ is\ equivalent\ to\ list2,\ false\ if\ not\r\n
+comment5.params=
+comment5.target=void\ test()
+comment5.text=\r\n\ Tests\ methods\ of\ class\ BoolOps\r\n
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=N\ K
+comment0.target=int\ C(int,\ int)
+comment0.text=\r\n\ Recursively\ takes\ the\ combination\ of\ N-take-K\ (made\ static\ for\ ease\ of\ user\ experience)\r\n\ \r\n\ @param\ N\ the\ possible\ numbers\r\n\ @param\ K\ the\ desired\ cardinality\ of\ subsets\ of\ N\r\n\ @return\ C(N-1,\ K-1)\ +\ C(N-1,\ K)\ -\ the\ number\ of\ combinations\r\n
+numComments=1

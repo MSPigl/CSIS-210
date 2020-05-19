@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=initData\ initLeft\ initRight
+comment0.target=DoubleBTNode(double,\ DoubleBTNode,\ DoubleBTNode)
+comment1.params=
+comment1.target=double\ getData()
+comment2.params=
+comment2.target=DoubleBTNode\ getLeft()
+comment3.params=
+comment3.target=DoubleBTNode\ getRight()
+comment4.params=newData
+comment4.target=void\ setData(double)
+comment5.params=newLeft
+comment5.target=void\ setLeft(DoubleBTNode)
+comment6.params=newRight
+comment6.target=void\ setRight(DoubleBTNode)
+comment7.params=
+comment7.target=boolean\ isLeaf()
+numComments=8
